@@ -6,7 +6,6 @@
       <change beforePath="" afterPath="E:/git/FirstGit/.idea/modules.xml" />
       <change beforePath="" afterPath="E:/git/FirstGit/.idea/vcs.xml" />
       <change beforePath="" afterPath="E:/git/FirstGit/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/xc-framework-parent/target/" />
     <ignored path="$PROJECT_DIR$/xc-framework-utils/target/" />
@@ -668,7 +667,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199032000" />
+    <option name="totallyTimeSpent" value="199089000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
