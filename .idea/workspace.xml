@@ -212,32 +212,6 @@
               <item name="eduService01" type="b2602c69:ProjectViewProjectNode" />
               <item name="eduService01" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="eduService01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eduService01" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-framework-common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eduService01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eduService01" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-framework-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eduService01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eduService01" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-framework-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eduService01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eduService01" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-framework-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -668,7 +642,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198141000" />
+    <option name="totallyTimeSpent" value="198990000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
