@@ -54,7 +54,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xc-framework-common/src/test/java/test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="148">
@@ -63,16 +63,6 @@
                 <element signature="e#70#71#0" expanded="true" />
                 <element signature="e#108#109#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Testzhenghe1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/xc-framework-common/src/test/java/Testzhenghe1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -678,7 +668,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199503000" />
+    <option name="totallyTimeSpent" value="199573000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1162,7 +1152,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
