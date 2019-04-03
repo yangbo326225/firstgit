@@ -53,7 +53,21 @@
     <favorites_list name="eduService01" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xc-framework-common/src/test/java/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="e#70#71#0" expanded="true" />
+                <element signature="e#108#109#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -197,6 +211,32 @@
             <path>
               <item name="eduService01" type="b2602c69:ProjectViewProjectNode" />
               <item name="eduService01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduService01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduService01" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-framework-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduService01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduService01" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-framework-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduService01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduService01" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-framework-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduService01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduService01" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-framework-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -628,7 +668,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198083000" />
+    <option name="totallyTimeSpent" value="198141000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1107,8 +1147,12 @@
     <entry file="file://$PROJECT_DIR$/test-freemarker/src/test/java/com/xuecheng/test/freemarker/FreemarkerTest.java" />
     <entry file="file://$PROJECT_DIR$/xc-framework-common/src/test/java/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        <state relative-caret-position="148">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#70#71#0" expanded="true" />
+            <element signature="e#108#109#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
